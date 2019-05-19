@@ -4,7 +4,7 @@ export default {
   'zh-cn': {
     brand: {
       brandName: 'C-ARC',
-      briefIntroduction: '一套适用于中小型企业的 RESTful 微服务产品架构解决方案',
+      briefIntroduction: '一套适用于中小型企业或个人的 RESTful 微服务产品架构解决方案',
       buttons: [
         {
           text: '立即开始',
